@@ -10,7 +10,7 @@ This project is a **desktop-focused UI/UX design** created using **Figma** for a
 ![Eco Food Design](./design-preview.png)
 
 ### 🎞️ Interactive Demo (GIF)  
-<img src= ""/>
+<img src= "Untitled (4).zip"/>
 
 > *Both visuals demonstrate the layout and transitions of the menu design.*
 
