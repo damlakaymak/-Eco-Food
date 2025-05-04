@@ -33,16 +33,20 @@ This project is a **desktop-focused UI/UX design** created using **Figma** for a
 
 ## 🔗 View the Design
 
-👉 [View the project on Figma](https://www.figma.com/design/hIxjzX6ano9UeWxQwR3m5I/Untitled?node-id=0-1&p=f&t=hOxzXeL3zYZPnbEk-0) *(Replace with your actual link)*
+👉 https://www.figma.com/design/hIxjzX6ano9UeWxQwR3m5I/Untitled?node-id=0-1&p=f&t=QIiPu25m0x2f1G7L-0
 
-## 📁 File Info
+##İmage 
 
-- `design-preview.png` – Static screenshot of the UI  
-- `ecofood-demo.gif` – Animated preview (GIF or short video exported as GIF)
-
+<img src="./assets/screenshot.png" alt="Ekran Görüntüsü" width="400" />
 
 
-⭐ If you like this project, feel free to give it a star!
+##Gif
+<img src="./assets/demo.gif" alt="Demo Gif" width="400" />
+
+
+
+
+
 
 
 
