@@ -37,7 +37,7 @@ This project is a **desktop-focused UI/UX design** created using **Figma** for a
 
 ##İmage 
 
-<img src="./assets/screenshot.png" alt="Ekran Görüntüsü" width="400" />
+<img src="Untitled design (4).gif" alt="Ekran Görüntüsü" width="400" />
 
 
 ##Gif
