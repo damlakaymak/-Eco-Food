@@ -35,13 +35,13 @@ This project is a **desktop-focused UI/UX design** created using **Figma** for a
 
 👉 https://www.figma.com/design/hIxjzX6ano9UeWxQwR3m5I/Untitled?node-id=0-1&p=f&t=QIiPu25m0x2f1G7L-0
 
-##İmage 
+##GİF
 
-<img src="Untitled design (4).gif" alt="Ekran Görüntüsü" width="400" />
+<img src="Untitled design (4).gif" alt="demo" width="400" />
 
 
-##Gif
-<img src="./assets/demo.gif" alt="Demo Gif" width="400" />
+##İmage
+<img src="Ekran Resmi .png" alt="Demo" width="400" />
 
 
 
